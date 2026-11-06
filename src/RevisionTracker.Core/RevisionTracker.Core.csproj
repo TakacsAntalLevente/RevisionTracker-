@@ -1,0 +1,11 @@
+<Project Sdk="Microsoft.NET.Sdk">
+  <PropertyGroup>
+    <TargetFramework>net48</TargetFramework>
+    <LangVersion>7.3</LangVersion>
+    <RootNamespace>RevisionTracker.Core</RootNamespace>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="System.IO.Compression" />
+    <Reference Include="System.Xml" />
+  </ItemGroup>
+</Project>
